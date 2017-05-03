@@ -2,7 +2,7 @@
 
 client > http-proxy-front > http-proxy-back > hidden http
 
-# Front
+## Front
 
 https://github.com/elevenetc/http-proxy-front
 
